@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[JDS] Simple Storage系列 - 简&amp;繁中文汉化</name>
+	<author>CNCG779</author>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<packageId>cncg779.JangoDsoul.SimpleStorage.cn</packageId>
+	<modDependencies>
+		<li>
+			<displayName>[JDS] Simple Storage</displayName>
+			<packageId>JangoDsoul.SimpleStorage</packageId>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/1961098970</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<description>
+
+[h1][b]请在原MOD后加载[/b][/h1]
+[b]英文名：[/b][JDS] Simple Storage 和 [JDS] Simple Storage - Refrigeration
+[b]中文名：[/b][JDS] 简单存储 和 [JDS] 简单存储 - 冷藏
+
+[h1][b]简介[/b][/h1]
+"Simply Storage"是一种简单的存储解决方案，可以帮助您存放所有不需要的垃圾，使之不再占用过多空间。它可以让您的基地更加紧凑，让出更多空间用于更重要的事情。
+
+已包括简体繁体中文汉化。繁体中文部分使用ChatGPT翻译，可能有部分不准确的地方。
+已包含同一作者的"冷藏"MOD内容的翻译。会根据原Mod更新情况进行更新。 
+
+[h1][b]注意事项[/b][/h1] 
+[b]2024年5月12日： [/b]当前[JDS] Simple Storage - Refrigeration模组并未更新，更新后会跟随更新相应内容。
+
+[h1][b]备注[/b][/h1]
+原模组：https://steamcommunity.com/sharedfiles/filedetails/?id=1961098970
+遵循 MIT 许可协议
+源代码地址：https://github.com/TomStilson/SimpleStorage_CN
+若有翻译问题请直接评论区反馈，或前往GitHub提交PR。
+
+	</description>
+	<loadAfter>
+		<li>JangoDsoul.SimpleStorage</li>
+		<li>JangoDsoul.SimpleStorage.ref</li>
+	</loadAfter>
+</ModMetaData>

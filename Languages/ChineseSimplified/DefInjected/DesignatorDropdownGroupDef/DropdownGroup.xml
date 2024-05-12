@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Bundles_DropdownDef.label>绑带箱子</Bundles_DropdownDef.label>
+  
+  <Burlap_Sack_DropdownDef.label>粗麻袋</Burlap_Sack_DropdownDef.label>
+  
+  <Cardboard_Box_DropdownDef.label>纸箱</Cardboard_Box_DropdownDef.label>
+  
+  <Cargo_Case_DropdownDef.label>货箱</Cargo_Case_DropdownDef.label>
+  
+  <Cargo_Container_DropdownDef.label>集装箱</Cargo_Container_DropdownDef.label>
+  
+  <Crate_DropdownDef.label>板条箱</Crate_DropdownDef.label>
+  
+  <Hay_Bales_DropdownDef.label>干草捆</Hay_Bales_DropdownDef.label>
+  
+  <Industrial_Shelf_DropdownDef.label>工业货架</Industrial_Shelf_DropdownDef.label>
+  
+  <Industrial_Tanker_DropdownDef.label>储油桶</Industrial_Tanker_DropdownDef.label>
+  
+  <Locker_DropdownDef.label>储物柜</Locker_DropdownDef.label>
+  
+  <Metal_Barrel_DropdownDef.label>金属桶</Metal_Barrel_DropdownDef.label>
+  
+  <Metal_Crate_DropdownDef.label>金属板条箱</Metal_Crate_DropdownDef.label>
+  
+  <Pallet_DropdownDef.label>托盘</Pallet_DropdownDef.label>
+  
+  <Plastic_DropdownDef.label>塑料</Plastic_DropdownDef.label>
+  
+  <Pot_DropdownDef.label>陶罐</Pot_DropdownDef.label>
+  
+  <Weapon_Cabinets_DropdownDef.label>武器柜</Weapon_Cabinets_DropdownDef.label>
+  
+  <Wooden_Barrel_DropdownDef.label>木桶</Wooden_Barrel_DropdownDef.label>
+  
+</LanguageData>

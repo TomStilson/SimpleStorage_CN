@@ -1,0 +1,493 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <JDSS_BundlesA.label>绑带箱子A</JDSS_BundlesA.label>
+    <JDSS_BundlesA.description>一个用绳子捆绑住的箱子，可以广泛应用于许多场合。</JDSS_BundlesA.description>
+
+    <JDSS_BundlesB.label>绑带箱子B</JDSS_BundlesB.label>
+    <JDSS_BundlesB.description>一个用绳子捆绑住的箱子，可以广泛应用于许多场合。</JDSS_BundlesB.description>
+
+    <JDSS_BundlesC.label>绑带箱子C</JDSS_BundlesC.label>
+    <JDSS_BundlesC.description>一个用绳子捆绑住的箱子，可以广泛应用于许多场合。</JDSS_BundlesC.description>
+
+    <JDSS_Burlap_Sack_Open.label>粗麻袋(开)</JDSS_Burlap_Sack_Open.label>
+    <JDSS_Burlap_Sack_Open.description>一个由粗纤维制成的麻袋，由于其优良的透气性非常适合用来储存农作物。</JDSS_Burlap_Sack_Open.description>
+
+    <JDSS_Burlap_SackA.label>粗麻袋</JDSS_Burlap_SackA.label>
+    <JDSS_Burlap_SackA.description>一个由粗纤维制成的麻袋，由于其优良的透气性非常适合用来储存农作物。</JDSS_Burlap_SackA.description>
+
+    <JDSS_Cardboard_Box_Open.label>纸箱(开)</JDSS_Cardboard_Box_Open.label>
+    <JDSS_Cardboard_Box_Open.description>由纸板或瓦愣纸板制成的容器，可以广泛应用于许多场合。</JDSS_Cardboard_Box_Open.description>
+
+    <JDSS_Cardboard_BoxA.label>纸箱A</JDSS_Cardboard_BoxA.label>
+    <JDSS_Cardboard_BoxA.description>由纸板或瓦愣纸板制成的容器，可以广泛应用于许多场合。</JDSS_Cardboard_BoxA.description>
+
+    <JDSS_Cardboard_BoxB.label>纸箱B</JDSS_Cardboard_BoxB.label>
+    <JDSS_Cardboard_BoxB.description>由纸板或瓦愣纸板制成的容器，可以广泛应用于许多场合。</JDSS_Cardboard_BoxB.description>
+
+    <JDSS_Cardboard_BoxC.label>纸箱C</JDSS_Cardboard_BoxC.label>
+    <JDSS_Cardboard_BoxC.description>由纸板或瓦愣纸板制成的容器，可以广泛应用于许多场合。</JDSS_Cardboard_BoxC.description>
+
+    <JDSS_Cardboard_BoxD.label>纸箱D</JDSS_Cardboard_BoxD.label>
+    <JDSS_Cardboard_BoxD.description>由纸板或瓦愣纸板制成的容器，可以广泛应用于许多场合。</JDSS_Cardboard_BoxD.description>
+
+    <JDSS_Cardboard_BoxE.label>纸箱E</JDSS_Cardboard_BoxE.label>
+    <JDSS_Cardboard_BoxE.description>由纸板或瓦愣纸板制成的容器，可以广泛应用于许多场合。</JDSS_Cardboard_BoxE.description>
+
+    <JDSS_Cardboard_BoxF.label>纸箱F</JDSS_Cardboard_BoxF.label>
+    <JDSS_Cardboard_BoxF.description>由纸板或瓦愣纸板制成的容器，可以广泛应用于许多场合。</JDSS_Cardboard_BoxF.description>
+
+    <JDSS_Cardboard_BoxG.label>纸箱G</JDSS_Cardboard_BoxG.label>
+    <JDSS_Cardboard_BoxG.description>由纸板或瓦愣纸板制成的容器，可以广泛应用于许多场合。</JDSS_Cardboard_BoxG.description>
+
+    <JDSS_Cardboard_BoxH.label>纸箱H</JDSS_Cardboard_BoxH.label>
+    <JDSS_Cardboard_BoxH.description>由纸板或瓦愣纸板制成的容器，可以广泛应用于许多场合。</JDSS_Cardboard_BoxH.description>
+
+    <JDSS_Cardboard_BoxI.label>纸箱I</JDSS_Cardboard_BoxI.label>
+    <JDSS_Cardboard_BoxI.description>由纸板或瓦愣纸板制成的容器，可以广泛应用于许多场合。</JDSS_Cardboard_BoxI.description>
+
+    <JDSS_Cardboard_BoxJ.label>纸箱J</JDSS_Cardboard_BoxJ.label>
+    <JDSS_Cardboard_BoxJ.description>由纸板或瓦愣纸板制成的容器，可以广泛应用于许多场合。</JDSS_Cardboard_BoxJ.description>
+
+    <JDSS_Cardboard_BoxK.label>纸箱K</JDSS_Cardboard_BoxK.label>
+    <JDSS_Cardboard_BoxK.description>由纸板或瓦愣纸板制成的容器，可以广泛应用于许多场合。</JDSS_Cardboard_BoxK.description>
+
+    <JDSS_Cardboard_BoxL.label>纸箱L</JDSS_Cardboard_BoxL.label>
+    <JDSS_Cardboard_BoxL.description>由纸板或瓦愣纸板制成的容器，可以广泛应用于许多场合。</JDSS_Cardboard_BoxL.description>
+
+    <JDSS_Cardboard_BoxM.label>纸箱M</JDSS_Cardboard_BoxM.label>
+    <JDSS_Cardboard_BoxM.description>由纸板或瓦愣纸板制成的容器，可以广泛应用于许多场合。</JDSS_Cardboard_BoxM.description>
+
+    <JDSS_Cardboard_BoxN.label>纸箱N</JDSS_Cardboard_BoxN.label>
+    <JDSS_Cardboard_BoxN.description>由纸板或瓦愣纸板制成的容器，可以广泛应用于许多场合。</JDSS_Cardboard_BoxN.description>
+
+    <JDSS_Cardboard_BoxO.label>纸箱O</JDSS_Cardboard_BoxO.label>
+    <JDSS_Cardboard_BoxO.description>由纸板或瓦愣纸板制成的容器，可以广泛应用于许多场合。</JDSS_Cardboard_BoxO.description>
+
+    <JDSS_Cardboard_BoxP.label>纸箱P</JDSS_Cardboard_BoxP.label>
+    <JDSS_Cardboard_BoxP.description>由纸板或瓦愣纸板制成的容器，可以广泛应用于许多场合。</JDSS_Cardboard_BoxP.description>
+
+    <JDSS_Cardboard_BoxQ.label>纸箱Q</JDSS_Cardboard_BoxQ.label>
+    <JDSS_Cardboard_BoxQ.description>由纸板或瓦愣纸板制成的容器，可以广泛应用于许多场合。</JDSS_Cardboard_BoxQ.description>
+
+    <JDSS_Cargo_Case_GrayA.label>灰色货箱A</JDSS_Cargo_Case_GrayA.label>
+    <JDSS_Cargo_Case_GrayA.description>通常由高密度聚乙烯或铝等耐用材料制成，用于存放、运输和保护敏感或贵重设备、材料或用品。可防止撞击、潮湿、灰尘和极端温度。</JDSS_Cargo_Case_GrayA.description>
+
+    <JDSS_Cargo_Case_GrayB.label>灰色货箱B</JDSS_Cargo_Case_GrayB.label>
+    <JDSS_Cargo_Case_GrayB.description>通常由高密度聚乙烯或铝等耐用材料制成，用于存放、运输和保护敏感或贵重设备、材料或用品。可防止撞击、潮湿、灰尘和极端温度。</JDSS_Cargo_Case_GrayB.description>
+
+    <JDSS_Cargo_Case_GrayC.label>灰色货箱C</JDSS_Cargo_Case_GrayC.label>
+    <JDSS_Cargo_Case_GrayC.description>通常由高密度聚乙烯或铝等耐用材料制成，用于存放、运输和保护敏感或贵重设备、材料或用品。可防止撞击、潮湿、灰尘和极端温度。</JDSS_Cargo_Case_GrayC.description>
+
+    <JDSS_Cargo_Case_GreenA.label>绿色货箱A</JDSS_Cargo_Case_GreenA.label>
+    <JDSS_Cargo_Case_GreenA.description>通常由高密度聚乙烯或铝等耐用材料制成，用于存放、运输和保护敏感或贵重设备、材料或用品。可防止撞击、潮湿、灰尘和极端温度。</JDSS_Cargo_Case_GreenA.description>
+
+    <JDSS_Cargo_Case_GreenB.label>绿色货箱B</JDSS_Cargo_Case_GreenB.label>
+    <JDSS_Cargo_Case_GreenB.description>通常由高密度聚乙烯或铝等耐用材料制成，用于存放、运输和保护敏感或贵重设备、材料或用品。可防止撞击、潮湿、灰尘和极端温度。</JDSS_Cargo_Case_GreenB.description>
+
+    <JDSS_Cargo_Case_GreenC.label>绿色货箱C</JDSS_Cargo_Case_GreenC.label>
+    <JDSS_Cargo_Case_GreenC.description>通常由高密度聚乙烯或铝等耐用材料制成，用于存放、运输和保护敏感或贵重设备、材料或用品。可防止撞击、潮湿、灰尘和极端温度。</JDSS_Cargo_Case_GreenC.description>
+
+    <JDSS_Cargo_Container_Black.label>黑色集装箱</JDSS_Cargo_Container_Black.label>
+    <JDSS_Cargo_Container_Black.description>通常由耐用的钢或铝制成的大型标准化金属箱，一般常用于跨海运输。</JDSS_Cargo_Container_Black.description>
+
+    <JDSS_Cargo_Container_Blue.label>蓝色集装箱</JDSS_Cargo_Container_Blue.label>
+    <JDSS_Cargo_Container_Blue.description>通常由耐用的钢或铝制成的大型标准化金属箱，一般常用于跨海运输。</JDSS_Cargo_Container_Blue.description>
+
+    <JDSS_Cargo_Container_Green.label>绿色集装箱</JDSS_Cargo_Container_Green.label>
+    <JDSS_Cargo_Container_Green.description>通常由耐用的钢或铝制成的大型标准化金属箱，一般常用于跨海运输。</JDSS_Cargo_Container_Green.description>
+
+    <JDSS_Cargo_Container_Red.label>红色集装箱</JDSS_Cargo_Container_Red.label>
+    <JDSS_Cargo_Container_Red.description>通常由耐用的钢或铝制成的大型标准化金属箱，一般常用于跨海运输。</JDSS_Cargo_Container_Red.description>
+
+    <JDSS_Cargo_Container_Yellow.label>黄色集装箱</JDSS_Cargo_Container_Yellow.label>
+    <JDSS_Cargo_Container_Yellow.description>通常由耐用的钢或铝制成的大型标准化金属箱，一般常用于跨海运输。</JDSS_Cargo_Container_Yellow.description>
+
+    <JDSS_Crate_Open.label>板条箱(开)</JDSS_Crate_Open.label>
+    <JDSS_Crate_Open.description>由木材制成的容器，用于存放、运输和保护货物。广泛应用于各种场合。</JDSS_Crate_Open.description>
+
+    <JDSS_CrateA.label>板条箱A</JDSS_CrateA.label>
+    <JDSS_CrateA.description>由木材制成的容器，用于存放、运输和保护货物。广泛应用于各种场合。</JDSS_CrateA.description>
+
+    <JDSS_CrateB.label>板条箱B</JDSS_CrateB.label>
+    <JDSS_CrateB.description>由木材制成的容器，用于存放、运输和保护货物。广泛应用于各种场合。</JDSS_CrateB.description>
+
+    <JDSS_CrateC.label>板条箱C</JDSS_CrateC.label>
+    <JDSS_CrateC.description>由木材制成的容器，用于存放、运输和保护货物。广泛应用于各种场合。</JDSS_CrateC.description>
+
+    <JDSS_CrateD.label>板条箱D</JDSS_CrateD.label>
+    <JDSS_CrateD.description>由木材制成的容器，用于存放、运输和保护货物。广泛应用于各种场合。</JDSS_CrateD.description>
+
+    <JDSS_CrateE.label>板条箱E</JDSS_CrateE.label>
+    <JDSS_CrateE.description>由木材制成的容器，用于存放、运输和保护货物。广泛应用于各种场合。</JDSS_CrateE.description>
+
+    <JDSS_CrateF.label>板条箱F</JDSS_CrateF.label>
+    <JDSS_CrateF.description>由木材制成的容器，用于存放、运输和保护货物。广泛应用于各种场合。</JDSS_CrateF.description>
+
+    <JDSS_Foot_Locker.label>床脚箱</JDSS_Foot_Locker.label>
+    <JDSS_Foot_Locker.description>通常由木材或金属制成的一种迷你、坚固的储物箱，通常用于存放个人物品。适合放置在床脚或其他狭窄空间中。</JDSS_Foot_Locker.description>
+
+    <JDSS_Hay_BalesA.label>干草捆</JDSS_Hay_BalesA.label>
+    <JDSS_Hay_BalesA.description>将干草或其他植物用绳子捆绑在一起，主要用于农业和畜牧业的储存和运输。</JDSS_Hay_BalesA.description>
+
+    <JDSS_Industrial_ShelfA.label>工业货架A</JDSS_Industrial_ShelfA.label>
+    <JDSS_Industrial_ShelfA.description>由钢或金属合金等耐用材料制成的架子，具有高承载能力和坚固性，常用于工业、商业等仓库环境。</JDSS_Industrial_ShelfA.description>
+
+    <JDSS_Industrial_ShelfB.label>工业货架B</JDSS_Industrial_ShelfB.label>
+    <JDSS_Industrial_ShelfB.description>由钢或金属合金等耐用材料制成的架子，具有高承载能力和坚固性，常用于工业、商业等仓库环境。</JDSS_Industrial_ShelfB.description>
+
+    <JDSS_Industrial_ShelfC.label>工业货架C</JDSS_Industrial_ShelfC.label>
+    <JDSS_Industrial_ShelfC.description>由钢或金属合金等耐用材料制成的架子，具有高承载能力和坚固性，常用于工业、商业等仓库环境。</JDSS_Industrial_ShelfC.description>
+
+    <JDSS_Industrial_ShelfD.label>工业货架D</JDSS_Industrial_ShelfD.label>
+    <JDSS_Industrial_ShelfD.description>由钢或金属合金等耐用材料制成的架子，具有高承载能力和坚固性，常用于工业、商业等仓库环境。</JDSS_Industrial_ShelfD.description>
+
+    <JDSS_Industrial_ShelfE.label>工业货架E</JDSS_Industrial_ShelfE.label>
+    <JDSS_Industrial_ShelfE.description>由钢或金属合金等耐用材料制成的架子，具有高承载能力和坚固性，常用于工业、商业等仓库环境。</JDSS_Industrial_ShelfE.description>
+
+    <JDSS_Industrial_ShelfF.label>工业货架F</JDSS_Industrial_ShelfF.label>
+    <JDSS_Industrial_ShelfF.description>由钢或金属合金等耐用材料制成的架子，具有高承载能力和坚固性，常用于工业、商业等仓库环境。</JDSS_Industrial_ShelfF.description>
+
+    <JDSS_Industrial_ShelfG.label>工业货架G</JDSS_Industrial_ShelfG.label>
+    <JDSS_Industrial_ShelfG.description>由钢或金属合金等耐用材料制成的架子，具有高承载能力和坚固性，常用于工业、商业等仓库环境。</JDSS_Industrial_ShelfG.description>
+
+    <JDSS_Industrial_ShelfH.label>工业货架H</JDSS_Industrial_ShelfH.label>
+    <JDSS_Industrial_ShelfH.description>由钢或金属合金等耐用材料制成的架子，具有高承载能力和坚固性，常用于工业、商业等仓库环境。</JDSS_Industrial_ShelfH.description>
+
+    <JDSS_Industrial_ShelfI.label>工业货架I</JDSS_Industrial_ShelfI.label>
+    <JDSS_Industrial_ShelfI.description>由钢或金属合金等耐用材料制成的架子，具有高承载能力和坚固性，常用于工业、商业等仓库环境。</JDSS_Industrial_ShelfI.description>
+
+    <JDSS_Industrial_ShelfJ.label>工业货架J</JDSS_Industrial_ShelfJ.label>
+    <JDSS_Industrial_ShelfJ.description>由钢或金属合金等耐用材料制成的架子，具有高承载能力和坚固性，常用于工业、商业等仓库环境。</JDSS_Industrial_ShelfJ.description>
+
+    <JDSS_Industrial_ShelfK.label>工业货架K</JDSS_Industrial_ShelfK.label>
+    <JDSS_Industrial_ShelfK.description>由钢或金属合金等耐用材料制成的架子，具有高承载能力和坚固性，常用于工业、商业等仓库环境。</JDSS_Industrial_ShelfK.description>
+
+    <JDSS_Industrial_ShelfL.label>工业货架L</JDSS_Industrial_ShelfL.label>
+    <JDSS_Industrial_ShelfL.description>由钢或金属合金等耐用材料制成的架子，具有高承载能力和坚固性，常用于工业、商业等仓库环境。</JDSS_Industrial_ShelfL.description>
+
+    <JDSS_Industrial_ShelfM.label>工业货架M</JDSS_Industrial_ShelfM.label>
+    <JDSS_Industrial_ShelfM.description>由钢或金属合金等耐用材料制成的架子，具有高承载能力和坚固性，常用于工业、商业等仓库环境。</JDSS_Industrial_ShelfM.description>
+
+    <JDSS_Industrial_ShelfN.label>工业货架N</JDSS_Industrial_ShelfN.label>
+    <JDSS_Industrial_ShelfN.description>由钢或金属合金等耐用材料制成的架子，具有高承载能力和坚固性，常用于工业、商业等仓库环境。</JDSS_Industrial_ShelfN.description>
+
+    <JDSS_Larger_Tanker.label>储油桶</JDSS_Larger_Tanker.label>
+    <JDSS_Larger_Tanker.description>通常由钢或铝等坚固的材料制成的坚固耐腐蚀容器，可容纳和储存大量液体或气体。常用于工业、化学或能源相关领域。</JDSS_Larger_Tanker.description>
+
+    <JDSS_LockerA.label>置物柜A</JDSS_LockerA.label>
+    <JDSS_LockerA.description>通常由金属、塑胶或木材制成，常见于学校、健身房、工作场所和公共设施等场所。</JDSS_LockerA.description>
+
+    <JDSS_LcokerB.label>置物柜B</JDSS_LcokerB.label>
+    <JDSS_LcokerB.description>通常由金属、塑胶或木材制成，常见于学校、健身房、工作场所和公共设施等场所。</JDSS_LcokerB.description>
+
+    <JDSS_Metal_Barrel_Open.label>金属桶(开)</JDSS_Metal_Barrel_Open.label>
+    <JDSS_Metal_Barrel_Open.description>由金属制成的圆柱形容器，用于储存和运输液体或散装材料。包括化学品、石油、燃料、食品等。</JDSS_Metal_Barrel_Open.description>
+
+    <JDSS_Metal_BarrelA.label>金属桶</JDSS_Metal_BarrelA.label>
+    <JDSS_Metal_BarrelA.description>由金属制成的圆柱形容器，用于储存和运输液体或散装材料。包括化学品、石油、燃料、食品等。</JDSS_Metal_BarrelA.description>
+
+    <JDSS_Metal_Crate_Open.label>金属板条箱(开)</JDSS_Metal_Crate_Open.label>
+    <JDSS_Metal_Crate_Open.description>由金属制成的容器，用于存放、运输和保护货物。广泛应用于各种场合。</JDSS_Metal_Crate_Open.description>
+
+    <JDSS_Metal_CrateA.label>金属板条箱</JDSS_Metal_CrateA.label>
+    <JDSS_Metal_CrateA.description>由金属制成的容器，用于存放、运输和保护货物。广泛应用于各种场合。</JDSS_Metal_CrateA.description>
+
+    <JDSS_PalletA.label>托盘A</JDSS_PalletA.label>
+    <JDSS_PalletA.description>由木材制成的平台，用于仓库、工厂和其他物流环境中堆叠、存放和运输货物。</JDSS_PalletA.description>
+
+    <JDSS_PalletB.label>托盘B</JDSS_PalletB.label>
+    <JDSS_PalletB.description>由木材制成的平台，用于仓库、工厂和其他物流环境中堆叠、存放和运输货物。</JDSS_PalletB.description>
+
+    <JDSS_Plastic_BagA.label>塑料袋A</JDSS_Plastic_BagA.label>
+    <JDSS_Plastic_BagA.description>由塑胶制成的容器，通常用于储存、运输或保护物品，十分耐用。</JDSS_Plastic_BagA.description>
+
+    <JDSS_Plastic_BagB.label>塑料袋B</JDSS_Plastic_BagB.label>
+    <JDSS_Plastic_BagB.description>由塑胶制成的容器，通常用于储存、运输或保护物品，十分耐用。</JDSS_Plastic_BagB.description>
+
+    <JDSS_Plastic_BagC.label>塑料袋C</JDSS_Plastic_BagC.label>
+    <JDSS_Plastic_BagC.description>由塑胶制成的容器，通常用于储存、运输或保护物品，十分耐用。</JDSS_Plastic_BagC.description>
+
+    <JDSS_Plastic_BagD.label>塑料袋D</JDSS_Plastic_BagD.label>
+    <JDSS_Plastic_BagD.description>由塑胶制成的容器，通常用于储存、运输或保护物品，十分耐用。</JDSS_Plastic_BagD.description>
+
+    <JDSS_Plastic_PalletA.label>塑胶托盘A</JDSS_Plastic_PalletA.label>
+    <JDSS_Plastic_PalletA.description>由塑胶制成的平台，用于仓库、工厂和其他物流环境中堆叠、存放和运输货物。</JDSS_Plastic_PalletA.description>
+
+    <JDSS_Plastic_PalletB.label>塑胶托盘B</JDSS_Plastic_PalletB.label>
+    <JDSS_Plastic_PalletB.description>由塑胶制成的平台，用于仓库、工厂和其他物流环境中堆叠、存放和运输货物。</JDSS_Plastic_PalletB.description>
+
+    <JDSS_Pot_Cloth_Cover_SealA.label>布盖着的封口陶罐A</JDSS_Pot_Cloth_Cover_SealA.label>
+    <JDSS_Pot_Cloth_Cover_SealA.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Cloth_Cover_SealA.description>
+
+    <JDSS_Pot_Cloth_Cover_SealB.label>布盖着的封口陶罐B</JDSS_Pot_Cloth_Cover_SealB.label>
+    <JDSS_Pot_Cloth_Cover_SealB.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Cloth_Cover_SealB.description>
+
+    <JDSS_Pot_Cloth_Cover_SealC.label>布盖着的封口陶罐C</JDSS_Pot_Cloth_Cover_SealC.label>
+    <JDSS_Pot_Cloth_Cover_SealC.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Cloth_Cover_SealC.description>
+
+    <JDSS_Pot_Cloth_Cover_SealD.label>布盖着的封口陶罐D</JDSS_Pot_Cloth_Cover_SealD.label>
+    <JDSS_Pot_Cloth_Cover_SealD.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Cloth_Cover_SealD.description>
+
+    <JDSS_Pot_Cloth_Cover_SealE.label>布盖着的封口陶罐E</JDSS_Pot_Cloth_Cover_SealE.label>
+    <JDSS_Pot_Cloth_Cover_SealE.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Cloth_Cover_SealE.description>
+
+    <JDSS_Pot_Cloth_Cover_SealF.label>布盖着的封口陶罐F</JDSS_Pot_Cloth_Cover_SealF.label>
+    <JDSS_Pot_Cloth_Cover_SealF.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Cloth_Cover_SealF.description>
+
+    <JDSS_Pot_Cloth_CoverA.label>布盖着的陶罐A</JDSS_Pot_Cloth_CoverA.label>
+    <JDSS_Pot_Cloth_CoverA.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Cloth_CoverA.description>
+
+    <JDSS_Pot_Cloth_CoverB.label>布盖着的陶罐B</JDSS_Pot_Cloth_CoverB.label>
+    <JDSS_Pot_Cloth_CoverB.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Cloth_CoverB.description>
+
+    <JDSS_Pot_Cloth_CoverC.label>布盖着的陶罐C</JDSS_Pot_Cloth_CoverC.label>
+    <JDSS_Pot_Cloth_CoverC.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Cloth_CoverC.description>
+
+    <JDSS_Pot_Cloth_CoverD.label>布盖着的陶罐D</JDSS_Pot_Cloth_CoverD.label>
+    <JDSS_Pot_Cloth_CoverD.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Cloth_CoverD.description>
+
+    <JDSS_Pot_Cloth_CoverE.label>布盖着的陶罐E</JDSS_Pot_Cloth_CoverE.label>
+    <JDSS_Pot_Cloth_CoverE.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Cloth_CoverE.description>
+
+    <JDSS_Pot_Cloth_CoverF.label>布盖着的陶罐F</JDSS_Pot_Cloth_CoverF.label>
+    <JDSS_Pot_Cloth_CoverF.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Cloth_CoverF.description>
+
+    <JDSS_Pot_Cover_SealA.label>封口陶罐A</JDSS_Pot_Cover_SealA.label>
+    <JDSS_Pot_Cover_SealA.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Cover_SealA.description>
+
+    <JDSS_Pot_Cover_SealB.label>封口陶罐B</JDSS_Pot_Cover_SealB.label>
+    <JDSS_Pot_Cover_SealB.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Cover_SealB.description>
+
+    <JDSS_Pot_Cover_SealC.label>封口陶罐C</JDSS_Pot_Cover_SealC.label>
+    <JDSS_Pot_Cover_SealC.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Cover_SealC.description>
+
+    <JDSS_Pot_Cover_SealD.label>封口陶罐D</JDSS_Pot_Cover_SealD.label>
+    <JDSS_Pot_Cover_SealD.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Cover_SealD.description>
+
+    <JDSS_Pot_Cover_SealE.label>封口陶罐E</JDSS_Pot_Cover_SealE.label>
+    <JDSS_Pot_Cover_SealE.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Cover_SealE.description>
+
+    <JDSS_Pot_Cover_SealF.label>封口陶罐F</JDSS_Pot_Cover_SealF.label>
+    <JDSS_Pot_Cover_SealF.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Cover_SealF.description>
+
+    <JDSS_Pot_CoverA.label>带盖陶罐A</JDSS_Pot_CoverA.label>
+    <JDSS_Pot_CoverA.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_CoverA.description>
+
+    <JDSS_Pot_CoverB.label>带盖陶罐B</JDSS_Pot_CoverB.label>
+    <JDSS_Pot_CoverB.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_CoverB.description>
+
+    <JDSS_Pot_CoverC.label>带盖陶罐C</JDSS_Pot_CoverC.label>
+    <JDSS_Pot_CoverC.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_CoverC.description>
+
+    <JDSS_Pot_CoverD.label>带盖陶罐D</JDSS_Pot_CoverD.label>
+    <JDSS_Pot_CoverD.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_CoverD.description>
+
+    <JDSS_Pot_CoverE.label>带盖陶罐E</JDSS_Pot_CoverE.label>
+    <JDSS_Pot_CoverE.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_CoverE.description>
+
+    <JDSS_Pot_CoverF.label>带盖陶罐F</JDSS_Pot_CoverF.label>
+    <JDSS_Pot_CoverF.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_CoverF.description>
+
+    <JDSS_Pot_Wooden_Cover_SealA.label>木盖封口陶罐A</JDSS_Pot_Wooden_Cover_SealA.label>
+    <JDSS_Pot_Wooden_Cover_SealA.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Wooden_Cover_SealA.description>
+
+    <JDSS_Pot_Wooden_Cover_SealB.label>木盖封口陶罐B</JDSS_Pot_Wooden_Cover_SealB.label>
+    <JDSS_Pot_Wooden_Cover_SealB.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Wooden_Cover_SealB.description>
+
+    <JDSS_Pot_Wooden_Cover_SealC.label>木盖封口陶罐C</JDSS_Pot_Wooden_Cover_SealC.label>
+    <JDSS_Pot_Wooden_Cover_SealC.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Wooden_Cover_SealC.description>
+
+    <JDSS_Pot_Wooden_Cover_SealD.label>木盖封口陶罐D</JDSS_Pot_Wooden_Cover_SealD.label>
+    <JDSS_Pot_Wooden_Cover_SealD.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Wooden_Cover_SealD.description>
+
+    <JDSS_Pot_Wooden_Cover_SealE.label>木盖封口陶罐E</JDSS_Pot_Wooden_Cover_SealE.label>
+    <JDSS_Pot_Wooden_Cover_SealE.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Wooden_Cover_SealE.description>
+
+    <JDSS_Pot_Wooden_Cover_SealF.label>木盖封口陶罐F</JDSS_Pot_Wooden_Cover_SealF.label>
+    <JDSS_Pot_Wooden_Cover_SealF.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Wooden_Cover_SealF.description>
+
+    <JDSS_Pot_Wooden_CoverA.label>木盖陶罐A</JDSS_Pot_Wooden_CoverA.label>
+    <JDSS_Pot_Wooden_CoverA.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Wooden_CoverA.description>
+
+    <JDSS_Pot_Wooden_CoverB.label>木盖陶罐B</JDSS_Pot_Wooden_CoverB.label>
+    <JDSS_Pot_Wooden_CoverB.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Wooden_CoverB.description>
+
+    <JDSS_Pot_Wooden_CoverC.label>木盖陶罐C</JDSS_Pot_Wooden_CoverC.label>
+    <JDSS_Pot_Wooden_CoverC.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Wooden_CoverC.description>
+
+    <JDSS_Pot_Wooden_CoverD.label>木盖陶罐D</JDSS_Pot_Wooden_CoverD.label>
+    <JDSS_Pot_Wooden_CoverD.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Wooden_CoverD.description>
+
+    <JDSS_Pot_Wooden_CoverE.label>木盖陶罐E</JDSS_Pot_Wooden_CoverE.label>
+    <JDSS_Pot_Wooden_CoverE.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Wooden_CoverE.description>
+
+    <JDSS_Pot_Wooden_CoverF.label>木盖陶罐F</JDSS_Pot_Wooden_CoverF.label>
+    <JDSS_Pot_Wooden_CoverF.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_Pot_Wooden_CoverF.description>
+
+    <JDSS_PotA.label>陶罐A</JDSS_PotA.label>
+    <JDSS_PotA.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_PotA.description>
+
+    <JDSS_PotB.label>陶罐B</JDSS_PotB.label>
+    <JDSS_PotB.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_PotB.description>
+
+    <JDSS_PotC.label>陶罐C</JDSS_PotC.label>
+    <JDSS_PotC.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_PotC.description>
+
+    <JDSS_PotD.label>陶罐D</JDSS_PotD.label>
+    <JDSS_PotD.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_PotD.description>
+
+    <JDSS_PotE.label>陶罐E</JDSS_PotE.label>
+    <JDSS_PotE.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_PotE.description>
+
+    <JDSS_PotF.label>陶罐F</JDSS_PotF.label>
+    <JDSS_PotF.description>由粘土烧制而成的陶罐，传统上用于储存食物、液体或其他物品。</JDSS_PotF.description>
+
+    <JDSS_Refrigerated_Cargo_Container_Black.label>黑色冷藏集装箱</JDSS_Refrigerated_Cargo_Container_Black.label>
+    <JDSS_Refrigerated_Cargo_Container_Black.description>具有温控装置，通常由耐用的钢或铝制成的大型标准化金属箱，一般常用于跨海运输。</JDSS_Refrigerated_Cargo_Container_Black.description>
+
+    <JDSS_Refrigerated_Cargo_Container_Blue.label>蓝色冷藏集装箱</JDSS_Refrigerated_Cargo_Container_Blue.label>
+    <JDSS_Refrigerated_Cargo_Container_Blue.description>具有温控装置，通常由耐用的钢或铝制成的大型标准化金属箱，一般常用于跨海运输。</JDSS_Refrigerated_Cargo_Container_Blue.description>
+
+    <JDSS_Refrigerated_Cargo_Container_Green.label>绿色冷藏集装箱</JDSS_Refrigerated_Cargo_Container_Green.label>
+    <JDSS_Refrigerated_Cargo_Container_Green.description>具有温控装置，通常由耐用的钢或铝制成的大型标准化金属箱，一般常用于跨海运输。</JDSS_Refrigerated_Cargo_Container_Green.description>
+
+    <JDSS_Refrigerated_Cargo_Container_Red.label>红色冷藏集装箱</JDSS_Refrigerated_Cargo_Container_Red.label>
+    <JDSS_Refrigerated_Cargo_Container_Red.description>具有温控装置，通常由耐用的钢或铝制成的大型标准化金属箱，一般常用于跨海运输。</JDSS_Refrigerated_Cargo_Container_Red.description>
+
+    <JDSS_Refrigerated_Cargo_Container_Yellow.label>黄色冷藏集装箱</JDSS_Refrigerated_Cargo_Container_Yellow.label>
+    <JDSS_Refrigerated_Cargo_Container_Yellow.description>具有温控装置，通常由耐用的钢或铝制成的大型标准化金属箱，一般常用于跨海运输。</JDSS_Refrigerated_Cargo_Container_Yellow.description>
+
+    <JDSS_SackA.label>麻袋A</JDSS_SackA.label>
+    <JDSS_SackA.description>一个由纤维制成的麻袋，由于其优良的透气性非常适合用来储存农作物及各种物质。</JDSS_SackA.description>
+
+    <JDSS_SackB.label>麻袋B</JDSS_SackB.label>
+    <JDSS_SackB.description>一个由纤维制成的麻袋，由于其优良的透气性非常适合用来储存农作物及各种物质。</JDSS_SackB.description>
+
+    <JDSS_SackC.label>麻袋C</JDSS_SackC.label>
+    <JDSS_SackC.description>一个由纤维制成的麻袋，由于其优良的透气性非常适合用来储存农作物及各种物质。</JDSS_SackC.description>
+
+    <JDSS_SackD.label>麻袋D</JDSS_SackD.label>
+    <JDSS_SackD.description>一个由纤维制成的麻袋，由于其优良的透气性非常适合用来储存农作物及各种物质。</JDSS_SackD.description>
+
+    <JDSS_Shipping_CrateA.label>物流周转箱A</JDSS_Shipping_CrateA.label>
+    <JDSS_Shipping_CrateA.description>由木材制成的容器，用于存放、运输和保护货物。广泛应用于各种场合。</JDSS_Shipping_CrateA.description>
+
+    <JDSS_Shipping_CrateB.label>物流周转箱B</JDSS_Shipping_CrateB.label>
+    <JDSS_Shipping_CrateB.description>由木材制成的容器，用于存放、运输和保护货物。广泛应用于各种场合。</JDSS_Shipping_CrateB.description>
+
+    <JDSS_Shipping_CrateC.label>物流周转箱C</JDSS_Shipping_CrateC.label>
+    <JDSS_Shipping_CrateC.description>由木材制成的容器，用于存放、运输和保护货物。广泛应用于各种场合。</JDSS_Shipping_CrateC.description>
+
+    <JDSS_Shipping_CrateD.label>物流周转箱D</JDSS_Shipping_CrateD.label>
+    <JDSS_Shipping_CrateD.description>由木材制成的容器，用于存放、运输和保护货物。广泛应用于各种场合。</JDSS_Shipping_CrateD.description>
+
+    <JDSS_Shipping_CrateE.label>物流周转箱E</JDSS_Shipping_CrateE.label>
+    <JDSS_Shipping_CrateE.description>由木材制成的容器，用于存放、运输和保护货物。广泛应用于各种场合。</JDSS_Shipping_CrateE.description>
+
+    <JDSS_Shipping_CrateF.label>物流周转箱F</JDSS_Shipping_CrateF.label>
+    <JDSS_Shipping_CrateF.description>由木材制成的容器，用于存放、运输和保护货物。广泛应用于各种场合。</JDSS_Shipping_CrateF.description>
+
+    <JDSS_Silo.label>筒仓</JDSS_Silo.label>
+    <JDSS_Silo.description>通常由混凝土、金属或强化塑胶制成，常见于农业和工业环境。</JDSS_Silo.description>
+
+    <JDSS_Storage_Shed.label>储藏小屋</JDSS_Storage_Shed.label>
+    <JDSS_Storage_Shed.description>通常位于后院或室外空间，用于储存工具、设备和其他物品。</JDSS_Storage_Shed.description>
+
+    <JDSS_Storage_Tote.label>收纳箱</JDSS_Storage_Tote.label>
+    <JDSS_Storage_Tote.description>通常由耐用塑胶制成的一种多功能携带式容器，用于整理、存放和运输各种物品。</JDSS_Storage_Tote.description>
+
+    <JDSS_Weapon_CabinetsA.label>武器柜A</JDSS_Weapon_CabinetsA.label>
+    <JDSS_Weapon_CabinetsA.description>通常由钢材等重型材料制成，存放和整理枪支和其他武器。</JDSS_Weapon_CabinetsA.description>
+
+    <JDSS_Weapon_CabinetsB.label>武器柜B</JDSS_Weapon_CabinetsB.label>
+    <JDSS_Weapon_CabinetsB.description>通常由钢材等重型材料制成，存放和整理枪支和其他武器。</JDSS_Weapon_CabinetsB.description>
+
+    <JDSS_Weapon_CabinetsC.label>武器柜C</JDSS_Weapon_CabinetsC.label>
+    <JDSS_Weapon_CabinetsC.description>通常由钢材等重型材料制成，存放和整理枪支和其他武器。</JDSS_Weapon_CabinetsC.description>
+
+    <JDSS_Weapon_CabinetsD.label>武器柜D</JDSS_Weapon_CabinetsD.label>
+    <JDSS_Weapon_CabinetsD.description>通常由钢材等重型材料制成，存放和整理枪支和其他武器。</JDSS_Weapon_CabinetsD.description>
+
+    <JDSS_Weapon_CabinetsE.label>武器柜E</JDSS_Weapon_CabinetsE.label>
+    <JDSS_Weapon_CabinetsE.description>通常由钢材等重型材料制成，存放和整理枪支和其他武器。</JDSS_Weapon_CabinetsE.description>
+
+    <JDSS_Weapon_CabinetsF.label>武器柜F</JDSS_Weapon_CabinetsF.label>
+    <JDSS_Weapon_CabinetsF.description>通常由钢材等重型材料制成，存放和整理枪支和其他武器。</JDSS_Weapon_CabinetsF.description>
+
+    <JDSS_Weapon_CabinetsG.label>武器柜G</JDSS_Weapon_CabinetsG.label>
+    <JDSS_Weapon_CabinetsG.description>通常由钢材等重型材料制成，存放和整理枪支和其他武器。</JDSS_Weapon_CabinetsG.description>
+
+    <JDSS_Weapon_CabinetsH.label>武器柜H</JDSS_Weapon_CabinetsH.label>
+    <JDSS_Weapon_CabinetsH.description>通常由钢材等重型材料制成，存放和整理枪支和其他武器。</JDSS_Weapon_CabinetsH.description>
+
+    <JDSS_Weapon_CabinetsI.label>武器柜I</JDSS_Weapon_CabinetsI.label>
+    <JDSS_Weapon_CabinetsI.description>通常由钢材等重型材料制成，存放和整理枪支和其他武器。</JDSS_Weapon_CabinetsI.description>
+
+    <JDSS_Weapon_CabinetsJ.label>武器柜J</JDSS_Weapon_CabinetsJ.label>
+    <JDSS_Weapon_CabinetsJ.description>通常由钢材等重型材料制成，存放和整理枪支和其他武器。</JDSS_Weapon_CabinetsJ.description>
+
+    <JDSS_Weapon_CabinetsK.label>武器柜K</JDSS_Weapon_CabinetsK.label>
+    <JDSS_Weapon_CabinetsK.description>通常由钢材等重型材料制成，存放和整理枪支和其他武器。</JDSS_Weapon_CabinetsK.description>
+
+    <JDSS_Weapon_CabinetsL.label>武器柜L</JDSS_Weapon_CabinetsL.label>
+    <JDSS_Weapon_CabinetsL.description>通常由钢材等重型材料制成，存放和整理枪支和其他武器。</JDSS_Weapon_CabinetsL.description>
+
+    <JDSS_Weapon_CabinetsM.label>武器柜M</JDSS_Weapon_CabinetsM.label>
+    <JDSS_Weapon_CabinetsM.description>通常由钢材等重型材料制成，存放和整理枪支和其他武器。</JDSS_Weapon_CabinetsM.description>
+
+    <JDSS_Weapon_CabinetN.label>武器柜N</JDSS_Weapon_CabinetN.label>
+    <JDSS_Weapon_CabinetN.description>通常由钢材等重型材料制成，存放和整理枪支和其他武器。</JDSS_Weapon_CabinetN.description>
+
+    <JDSS_Weapon_CabinetsO.label>武器柜O</JDSS_Weapon_CabinetsO.label>
+    <JDSS_Weapon_CabinetsO.description>通常由钢材等重型材料制成，存放和整理枪支和其他武器。</JDSS_Weapon_CabinetsO.description>
+
+    <JDSS_Weapon_CabinetsP.label>武器柜P</JDSS_Weapon_CabinetsP.label>
+    <JDSS_Weapon_CabinetsP.description>通常由钢材等重型材料制成，存放和整理枪支和其他武器。</JDSS_Weapon_CabinetsP.description>
+
+    <JDSS_Weapon_CabinetsQ.label>武器柜Q</JDSS_Weapon_CabinetsQ.label>
+    <JDSS_Weapon_CabinetsQ.description>通常由钢材等重型材料制成，存放和整理枪支和其他武器。</JDSS_Weapon_CabinetsQ.description>
+
+    <JDSS_Weapon_CabinetsR.label>武器柜R</JDSS_Weapon_CabinetsR.label>
+    <JDSS_Weapon_CabinetsR.description>通常由钢材等重型材料制成，存放和整理枪支和其他武器。</JDSS_Weapon_CabinetsR.description>
+
+    <JDSS_Weapon_CabinetsS.label>武器柜S</JDSS_Weapon_CabinetsS.label>
+    <JDSS_Weapon_CabinetsS.description>通常由钢材等重型材料制成，存放和整理枪支和其他武器。</JDSS_Weapon_CabinetsS.description>
+
+    <JDSS_Weapon_CabinetsT.label>武器柜T</JDSS_Weapon_CabinetsT.label>
+    <JDSS_Weapon_CabinetsT.description>通常由钢材等重型材料制成，存放和整理枪支和其他武器。</JDSS_Weapon_CabinetsT.description>
+
+    <JDSS_Weapon_CabinetsU.label>武器柜U</JDSS_Weapon_CabinetsU.label>
+    <JDSS_Weapon_CabinetsU.description>通常由钢材等重型材料制成，存放和整理枪支和其他武器。</JDSS_Weapon_CabinetsU.description>
+
+    <JDSS_Weapon_CabinetsV.label>武器柜V</JDSS_Weapon_CabinetsV.label>
+    <JDSS_Weapon_CabinetsV.description>通常由钢材等重型材料制成，存放和整理枪支和其他武器。</JDSS_Weapon_CabinetsV.description>
+
+    <JDSS_Weapon_CabinetsW.label>武器柜W</JDSS_Weapon_CabinetsW.label>
+    <JDSS_Weapon_CabinetsW.description>通常由钢材等重型材料制成，存放和整理枪支和其他武器。</JDSS_Weapon_CabinetsW.description>
+
+    <JDSS_Weapon_CabinetsX.label>武器柜X</JDSS_Weapon_CabinetsX.label>
+    <JDSS_Weapon_CabinetsX.description>通常由钢材等重型材料制成，存放和整理枪支和其他武器。</JDSS_Weapon_CabinetsX.description>
+
+    <JDSS_Weapon_CabinetsY.label>武器柜Y</JDSS_Weapon_CabinetsY.label>
+    <JDSS_Weapon_CabinetsY.description>通常由钢材等重型材料制成，存放和整理枪支和其他武器。</JDSS_Weapon_CabinetsY.description>
+
+    <JDSS_Weapon_CabinetsZ.label>武器柜Z</JDSS_Weapon_CabinetsZ.label>
+    <JDSS_Weapon_CabinetsZ.description>通常由钢材等重型材料制成，存放和整理枪支和其他武器。</JDSS_Weapon_CabinetsZ.description>
+
+    <JDSS_Wooden_Barrel_Open.label>木桶(开)</JDSS_Wooden_Barrel_Open.label>
+    <JDSS_Wooden_Barrel_Open.description>由木材制成的圆柱形容器，用于储存和运输液体或散装材料。包括葡萄酒、威士忌和油等液体，以及谷物、坚果和香料等</JDSS_Wooden_Barrel_Open.description>
+
+    <JDSS_WoodenA.label>木桶</JDSS_WoodenA.label>
+    <JDSS_WoodenA.description>由木材制成的圆柱形容器，用于储存和运输液体或散装材料。包括葡萄酒、威士忌和油等液体，以及谷物、坚果和香料等</JDSS_WoodenA.description>
+
+    <JDS_Refrigerator.label>冰箱</JDS_Refrigerator.label>
+    <JDS_Refrigerator.description>高规格的冷藏柜，箱体延伸到地下，允许大量的物品被妥善地隔热储存。储存在这里的食物是安全的，不会腐烂。\n\n因其冷藏系统和深度储藏的功能的需要而埋入深坑中，所以无法移动。\n\n【最大储存量】：50组</JDS_Refrigerator.description>
+
+    <JDS_RefrigeratedBoxTrucks.label>冷藏货车厢</JDS_RefrigeratedBoxTrucks.label>
+    <JDS_RefrigeratedBoxTrucks.description>能够冷藏物品的货车厢。\n\n【最大储存量】：600组</JDS_RefrigeratedBoxTrucks.description>
+
+    <JDS_IceBox.label>冰盒</JDS_IceBox.label>
+    <JDS_IceBox.description>能够冷藏物品的冰盒。\n\n【最大储存量】：20组</JDS_IceBox.description>
+
+</LanguageData>
